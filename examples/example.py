@@ -1,1 +1,3 @@
 # example.py
+
+print("hello")
