@@ -10,3 +10,5 @@
 |Linux Kernel|
 |VS Code|
 
+## 실행방법
+python hello.py
